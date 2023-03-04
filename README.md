@@ -16,3 +16,9 @@ This project is Pet Shop Management System; it is written in Java and connected 
 
 
 ## Employee: 
+* Manage Customers
+* Manage Orders
+
+**Note:**
+<br>
+For manage order, specific customer ID can be searched to facilitate the search process.
