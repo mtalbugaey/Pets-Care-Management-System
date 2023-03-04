@@ -81,7 +81,7 @@ All IDs Field is filled automatically
 ![13](https://user-images.githubusercontent.com/126514202/222896974-45be6552-da29-43bc-8b0f-766a794fcd89.png)
 
 ##  Email send to customer after he checkout
-![14](https://user-images.githubusercontent.com/126514202/222896976-107fd56c-94fe-4101-8df6-efd44bb4277c.jpeg)
+![3](https://user-images.githubusercontent.com/126514202/222897315-5964f1d2-b04a-4c47-ab89-66df258792f8.jpeg)
 
 ##  Order Information Interface
 ![15](https://user-images.githubusercontent.com/126514202/222896978-13c6c902-5f2b-44cf-b474-2aa96cf7e674.png)
